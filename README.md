@@ -1,5 +1,7 @@
-Outset
-======
+## Outset
+
+
+[Try me!](https://galvanized.github.io/outset/)
 
 This web app uses the http://unsplash.it API to grab random images from http://unsplash.com and display them in a slideshow format on the users screen.
 
@@ -9,11 +11,11 @@ Currently allows the user to change the frequency at which the images will chang
 
 Feel free to fork it and make it better.
 
-TODO
+### TODO
 
 [ ] Add crossfade
 
 
 
 
-Original author Raajit Sharma (2014)
+#### Original author Raajit Sharma (2014)

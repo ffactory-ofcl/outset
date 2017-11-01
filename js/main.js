@@ -88,5 +88,8 @@ function imageClicked()
 	timePrompt = setTimeout(function(){
 		changeImage();
 	}, 60*1000);
+
+	// fade out to give immediate response to user
+	$("#mainImage").fadeOut(500);
 	changeImage();
 }
